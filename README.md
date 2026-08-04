@@ -71,7 +71,6 @@ Source codes for various books I collected over the years.
 - [Hidden Markov Models for Time Series An Introduction Using R Zuccini](Hidden_Markov_Models_for_Time_Series_An_Introduction_Using_R_Zuccini)
 - [opencv python blueprints](opencv-python-blueprints)
 - [Finite Element Methods for Flow Problems Wiley Huerta](Finite_Element_Methods_for_Flow_Problems_Wiley_Huerta)
-- [companions.md](companions.md)
 - [Intelligent Control Systems Introduction to System of Systems Engineering Jamshidi](Intelligent_Control_Systems_Introduction_to_System_of_Systems_Engineering_Jamshidi)
 - [Advanced control of aircraft spacecraft Tewari](Advanced_control_of_aircraft_spacecraft_Tewari)
 - [Computational Methods in Aero Wilcox MIT 1690](Computational_Methods_in_Aero_Wilcox_MIT_1690)
