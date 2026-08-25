@@ -1,4 +1,4 @@
-% Based on the code below, 1D nozzle solution, conservative form
+% Based on the code in the URL, 1D nozzle solution, conservative form
 % Anderson's CFD_the_basics_with_applications Chapter 7 
 % https://github.com/abhiyanpaudel/quasi-1D-nozzle-flows/blob/main/quasi_1D_with_shock_capturing/quasi_1D_with_shock_capturing.m
 clc

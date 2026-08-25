@@ -1,3 +1,4 @@
+# Translated into Python from the Matlab version by Gemini
 import numpy as np
 
 # --- Inputs & Setup (Anderson Chapter 7) ---
